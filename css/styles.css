@@ -272,6 +272,7 @@ img {
   font-size: 1.8rem;
   background: var(--btn-gradient);
   box-shadow: var(--box-shadow-1);
+  cursor: pointer;
 }
 
 .header .hero .row img {
