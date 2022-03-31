@@ -76,4 +76,21 @@ img {
   height: auto;
 }
 
+/* ========== Custom Classes =========== */
+.container{
+  max-width: 120em;
+  padding: 0 3rem;
+  margin: auto;
+}
+
+@media (min-width: 1600px){
+  .container{
+    max-width: 0 1rem;
+  }
+}
+
+.d-flex{
+  display: flex;
+  align-items: center;
+}
 
